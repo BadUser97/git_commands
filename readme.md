@@ -1,4 +1,11 @@
-<img style="width:40px; height:40px;" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png">
+<img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png">
+<style>
+img{
+    width:40px;
+    height:40px;
+
+}
+</style>
 
 # LINEAS DE COMANDO PARA MAJ}NEJAR NUESTROS REPOSITORIOS DE GIT:<br>
 
@@ -6,9 +13,11 @@ todo los comandos deran utilizados mediante la terminal de visual studio code:<b
 
 1.- git init <br>
 se encarga de iniciar todos los archivos necesarios de git dentro de nuestra carpeta local.<br> 
+
 2.- git add . <br>
 añade o toma una captura de todos los elementos que se encuentran dentro de nuestro proyecto<br> 
 *esto se tiene que hacer cada que vallamos a guardar cambios*<br>
+
 4.- git commit -m <br>
 este comando realiza un comentario dentro de nuestro cambio que vamos a realizar mediante el comando commit
 
@@ -16,6 +25,7 @@ este comando realiza un comentario dentro de nuestro cambio que vamos a realizar
 
 1.- git config --global user.name "nombre_usuario"<br>
 *aqui escribiremos  nuestro usuario de github*<br>
+
 2.- git config --global user.email johndoe@example.com<br>
 *aqui escribiremos nuestro email*
 
