@@ -1,4 +1,4 @@
-<img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png"  width="50px" height="50px">
+<center><img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png"  width="100px" height="80px"></center>
 
 
 # LINEAS DE COMANDO PARA MAJ}NEJAR NUESTROS REPOSITORIOS DE GIT:<br>
