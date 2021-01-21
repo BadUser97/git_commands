@@ -12,7 +12,7 @@ añade o toma una captura de todos los elementos que se encuentran dentro de nue
 4.- git commit -m <br>
 este comando realiza un comentario dentro de nuestro cambio que vamos a realizar mediante el comando commit
 
-# se nos pediran nuestro datos de acceso de la cuenta de github o podemos agregarlos nosotros directamente con los siguientes comandos <br>
+# SE NOS PEDIRAN NUESTRO DATOS DE ACCESO DE LA CUENTA DE GITHUB O PODEMOS AGREGARLOS NOSOTROS DIRECTAMENTE CON LOS SIGUIENTES COMANDOS <br>
 
 1.- git config --global user.name "nombre_usuario"<br>
 *aqui escribiremos  nuestro usuario de github*<br>
