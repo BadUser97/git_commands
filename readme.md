@@ -1,4 +1,4 @@
-<img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png"  width="150px" height="150px">
+<img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png"  width="200px" height="150px">
 
 
 
