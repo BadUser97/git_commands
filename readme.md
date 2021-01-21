@@ -1,4 +1,4 @@
-<img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" style="width: 70px; height: 70px; >
+<img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" >
 
 # EXAMPLES COMMAND LINES FOR GITHUB MANAGEMENT:<br>
 
