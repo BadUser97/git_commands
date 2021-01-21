@@ -1,17 +1,54 @@
+<img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" style="width: 70px; height: 70px; >
+
 # EXAMPLES COMMAND LINES FOR GITHUB MANAGEMENT:<br>
 
-1.- git init<br>
-2.- git add . <br>
-4.-git commit<br>
-5.- git commit -m #cuando va con comentario<br>
-6.- git checkout -- .<br>
-7.- git log  #revisa todos los logs y sus hash<br>
-8.- git commit --amend  #corrige commits<br>
-9.- git checkout -b rama-heroes  #para crear una rama nueva y no afectar la principal.<br>
-10.- git checkout master  #revisa los archivos dentro de la rama master<br>
-<br><br>
-# push an existing repository from the command line<br>
+todo los comandos deran utilizados mediante la terminal de visual studio code:<br>
 
-1.- git remote add origin https://github.com/BadUser97/git_commands.git<br>
-1.- git branch -M main<br>
-1.- git push -u origin main<br>
+1.- git init <br>
+se encarga de iniciar todos los archivos necesarios de git dentro de nuestra carpeta local.<br> 
+2.- git add . <br>
+añade o toma una captura de todos los elementos que se encuentran dentro de nuestro proyecto 
+*esto se tiene que hacer cada que vallamos a guardar cambios*<br>
+4.- git commit -m <br>
+este comando realiza un comentario dentro de nuestro cambio que vamos a realizar mediante el comando commit
+
+# se nos pediran nuestro datos de acceso de la cuenta de github o podemos agregarlos nosotros directamente con los siguientes comandos <br>
+
+1.- git config --global user.name "nombre_usuario"<br>
+*aqui escribiremos  nuestro usuario de github*<br>
+2.- git config --global user.email johndoe@example.com<br>
+*aqui escribiremos nuestro email*
+
+
+*NOTA: MUCHAS VECES SE NOS ABRIRA UNA VENTANA PARA LOGUEARNOS DE MANERA GRAFICA CON NNUESTRA CUENTA DE GITHUB, ES MEJOR DE ESTA MANERA YA QUE SE EVITAN CONFUSIONES* <BR>
+
+#COMANDOS UTILES PARA LA ADMINISTRACION DE NUESTRO REPOSITORIO
+
+1.- git checkout -- .<br>
+Reconstruye nuestro proyecto a una version anterior del ultimo commit 
+*esto es muy util por si nos equivocamos*
+
+2.- git log  <br>
+*revisa todos los logs y sus hash*<br>
+
+3.- git commit --amend  <br>
+*corrige commits mal escritos*<br>
+
+4.- git checkout -b rama-heroes  <br>
+*para crear una rama nueva y no afectar la principal.*<br>
+
+5.- git checkout master <br>
+*revisa los archivos dentro de la rama master*
+
+<br><br>
+# AGREGAR UN REPOSITORIO DE GITHUB A NUESTRO PROYECTO LOCAL (ENLAZARNOS AL REPOSITORIO REMOTO)<br>
+
+1.- git remote add origin (link del repositorio que nos provee github) <br>  
+*añade el origen de donde vamos a importar y exportare nuestro proyecto remoto*<br>
+
+2.- git branch -M main<br>
+*agregarmos los archivos a la rama principal o MAIN* <br>
+
+
+3.- git push -u origin main<br>
+*Hacemos un PUSH para enviar los cambios locales a nuestro repositorio remoto en la rama MAIN*
