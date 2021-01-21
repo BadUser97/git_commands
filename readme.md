@@ -7,7 +7,7 @@ todo los comandos deran utilizados mediante la terminal de visual studio code:<b
 1.- git init <br>
 se encarga de iniciar todos los archivos necesarios de git dentro de nuestra carpeta local.<br> 
 2.- git add . <br>
-añade o toma una captura de todos los elementos que se encuentran dentro de nuestro proyecto 
+añade o toma una captura de todos los elementos que se encuentran dentro de nuestro proyecto<br> 
 *esto se tiene que hacer cada que vallamos a guardar cambios*<br>
 4.- git commit -m <br>
 este comando realiza un comentario dentro de nuestro cambio que vamos a realizar mediante el comando commit
@@ -20,9 +20,9 @@ este comando realiza un comentario dentro de nuestro cambio que vamos a realizar
 *aqui escribiremos nuestro email*
 
 
-*NOTA: MUCHAS VECES SE NOS ABRIRA UNA VENTANA PARA LOGUEARNOS DE MANERA GRAFICA CON NNUESTRA CUENTA DE GITHUB, ES MEJOR DE ESTA MANERA YA QUE SE EVITAN CONFUSIONES* <BR>
+*NOTA: MUCHAS VECES SE NOS ABRIRA UNA VENTANA PARA LOGUEARNOS DE MANERA GRAFICA CON NUESTRA CUENTA DE GITHUB, ES MEJOR DE ESTA MANERA YA QUE SE EVITAN CONFUSIONES* <BR>
 
-#COMANDOS UTILES PARA LA ADMINISTRACION DE NUESTRO REPOSITORIO
+# COMANDOS UTILES PARA LA ADMINISTRACION DE NUESTRO REPOSITORIO
 
 1.- git checkout -- .<br>
 Reconstruye nuestro proyecto a una version anterior del ultimo commit 
