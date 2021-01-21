@@ -1,6 +1,6 @@
-<img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" >
+<img style="width:50px; height:50px;" src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" >
 
-# EXAMPLES COMMAND LINES FOR GITHUB MANAGEMENT:<br>
+# LINEAS DE COMANDO PARA MAJ}NEJAR NUESTROS REPOSITORIOS DE GIT:<br>
 
 todo los comandos deran utilizados mediante la terminal de visual studio code:<br>
 
