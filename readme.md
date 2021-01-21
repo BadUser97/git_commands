@@ -2,7 +2,7 @@
 
 
 
-# LINEAS DE COMANDO PARA MAJ}NEJAR NUESTROS REPOSITORIOS DE GIT:<br>
+# LINEAS DE COMANDO PARA MANEJAR NUESTROS REPOSITORIOS DE GIT:<br>
 
 todo los comandos deran utilizados mediante la terminal de visual studio code:<br>
 
@@ -57,3 +57,4 @@ Reconstruye nuestro proyecto a una version anterior del ultimo commit
 
 3.- git push -u origin main<br>
 *Hacemos un PUSH para enviar los cambios locales a nuestro repositorio remoto en la rama MAIN*
+
